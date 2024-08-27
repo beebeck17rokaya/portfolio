@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    position: relative;
+    height: 100vh; /* Adjust this if you want to control the height of the hero section */
+    background: #4CAF50;
+    clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 20% 100%, 0% 50%, 0 0%);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-content {
+    z-index: 1;
+}
+
+.homepage {
+    padding: 2rem;
+    background-color: #f4f4f4;
+}
