@@ -11,7 +11,7 @@ This is the portfolio using html and css.
 ![portfolio_clone](https://github.com/beebeck17rokaya/portfolio/blob/fa5fcd2d6ea3034b05f21d90ec317ff58c74235c/Screenshot%202024-08-27%20171339.png)
 
 
-![portfolio_clone](https://github.com/beebeck17rokaya/portfolio/blob/fa5fcd2d6ea3034b05f21d90ec317ff58c74235c/Screenshot%202024-08-27%20171402.png)
+![portfolio_clone](https://github.com/beebeck17rokaya/portfolio/blob/065041d0fa294eca31e8f698b10df37322fe430b/Screenshot%202024-08-27%20174005.png)
 
 
 
